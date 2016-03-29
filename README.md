@@ -10,4 +10,4 @@
 
 ### Rebuild js
 
-`npm run builda`
+`npm run build`
